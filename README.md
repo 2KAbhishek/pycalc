@@ -23,82 +23,37 @@
 <a href="https://github.com/2KAbhishek?tab=followers">
 <img alt="Followers" src="https://img.shields.io/github/followers/2kabhishek?color=222&style=plastic&label=Followers"> </a>
 
-<h3>Short sweet headline with 🎇🎉</h3>
-
-<figure>
-  <img src= "images/screenshot.jpg" alt="pycalc Demo" style="width:100%">
-  <br/>
-  <figcaption>pycalc screenshot</figcaption>
-</figure>
+<h3>Simulate a calculator with OOP 🎲🧮</h3>
 
 </div>
 
 ## What is this
 
-pycalc is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
+Uses OOP and `python` to simulate features of a calculator.
 
 ## Inspiration
 
-pycalc was inspired by `<reason/idea>`.
+Created for teaching OOP in python.
 
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
-- You have installed the latest version of `<coding_language/dependency/requirement_1>`
+- You have installed the latest version of `python`
 
 ## Getting pycalc
 
-To install pycalc, follow these steps:
+To run pycalc, follow these steps:
 
 ```bash
 git clone https://github.com/2kabhishek/pycalc
 cd pycalc
-<install_command>
-```
-
-## Using pycalc
-
-```bash
-USAGE:
-    command [FLAGS] [OPTIONS]
-
-FLAGS:
-    -h, --help              Prints help information.
-
-OPTIONS:
-    -o, --option <value>    Option description.
-    Options are: a, b. [default: a]
-
-Example:
-
-
+python src/calculator_test.py
 ```
 
 ## How it was built
 
-pycalc was built using `<tech/library>`
-
-## Challenges faced
-
-While building pycalc the main challenges were `<issue/difficulty>`
-
-## What I learned
-
-While building pycalc I `<learned/accomplished>` about `<learning/accomplishment>`
-
-## What's next
-
-Planning to add `<feature/module>`.
-
-### To-Do
-
-- [x] Setup repo
-- [ ] Think real hard
-- [ ] Start typing
-- [ ] Change me
-- [ ] Update README
-- [ ] Finish it
+pycalc was built using `neovim` and `python`
 
 Hit the ⭐ button if you found this useful.
 
